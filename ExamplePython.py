@@ -1,5 +1,4 @@
-def test_password(x):
-    print(x)
+
 
 
 a = "String 1"
@@ -19,5 +18,3 @@ for name, job in job_list.items():
     print(f"{name} is a {job}")
 
 
-Password = 'SuperSecretAdminPass'
-test_password(Password)
